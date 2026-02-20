@@ -1,4 +1,4 @@
-# Back Up tools on Linux
+# Back Up Tools on Linux
 
 It can be a herculean task if you have a large number of files and you want to back them up once a year. To avoid such scenarios, there are commands that can aid you in back up of your files  on Linux, In the following paragraphs, we will look at some of the popular commands that make the backup process easier. 
 
