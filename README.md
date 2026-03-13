@@ -9,10 +9,10 @@ It is one of the most popular commands that makes the backup process easier. It 
 Command for full backup:
 
 ```
-rsync -av --delete /home/user/ /backup/
+rsync -av --delete /home/directory/ /backup/
 ```
 
-Here, source folder is ``/home/dircetory/`` and destination folder is ``/backup/``.
+Here, source folder is ``/home/directory/`` and destination folder is ``/backup/``.
 
 Command for incremental backup:
 
